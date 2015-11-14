@@ -1,0 +1,3986 @@
+{
+    "header": {
+        "gtfs_realtime_version": "1",
+        "timestamp": 1447446510
+    },
+    "entity": [
+        {
+            "id": "1338",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1527",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1338"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446420
+                        },
+                        "stop_id": "115"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446660
+                        },
+                        "stop_id": "116"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446840
+                        },
+                        "stop_id": "118"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447020
+                        },
+                        "stop_id": "120"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447140
+                        },
+                        "stop_id": "121"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447620
+                        },
+                        "stop_id": "124"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1340",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1526",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1340"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446360
+                        },
+                        "stop_id": "56"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446900
+                        },
+                        "stop_id": "105"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447080
+                        },
+                        "stop_id": "106"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447260
+                        },
+                        "stop_id": "108"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447500
+                        },
+                        "stop_id": "110"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447680
+                        },
+                        "stop_id": "111"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447860
+                        },
+                        "stop_id": "112"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448100
+                        },
+                        "stop_id": "114"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448280
+                        },
+                        "stop_id": "115"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448520
+                        },
+                        "stop_id": "116"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448700
+                        },
+                        "stop_id": "118"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448880
+                        },
+                        "stop_id": "120"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449000
+                        },
+                        "stop_id": "121"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449480
+                        },
+                        "stop_id": "124"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1365",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1528",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1365"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446480
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447140
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1367",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1529",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1367"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446540
+                        },
+                        "stop_id": "110"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446780
+                        },
+                        "stop_id": "108"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446960
+                        },
+                        "stop_id": "106"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447140
+                        },
+                        "stop_id": "105"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447740
+                        },
+                        "stop_id": "56"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448280
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448940
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "137",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1609",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "137"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447448940
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447450260
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447451880
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447453140
+                        },
+                        "stop_id": "108"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447457160
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447458060
+                        },
+                        "stop_id": "17016"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447459140
+                        },
+                        "stop_id": "17015"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447460400
+                        },
+                        "stop_id": "17012"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447462020
+                        },
+                        "stop_id": "17010"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447463400
+                        },
+                        "stop_id": "17009"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447466100
+                        },
+                        "stop_id": "17006"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447466820
+                        },
+                        "stop_id": "17005"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447467720
+                        },
+                        "stop_id": "17004"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1320,
+                            "time": 1447468800
+                        },
+                        "stop_id": "17003"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "148",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1845",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "148"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447458300
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447460100
+                        },
+                        "stop_id": "108"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447461300
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447462980
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447464540
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447465740
+                        },
+                        "stop_id": "17031"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447466220
+                        },
+                        "stop_id": "17032"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447466820
+                        },
+                        "stop_id": "17033"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447467660
+                        },
+                        "stop_id": "17034"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447468260
+                        },
+                        "stop_id": "17035"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447468740
+                        },
+                        "stop_id": "17036"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447470600
+                        },
+                        "stop_id": "17037"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1534",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1522",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1534"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447446120
+                        },
+                        "stop_id": "137"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447446360
+                        },
+                        "stop_id": "138"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447446540
+                        },
+                        "stop_id": "188"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447446960
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447447320
+                        },
+                        "stop_id": "143"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447447560
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447447740
+                        },
+                        "stop_id": "145"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447448160
+                        },
+                        "stop_id": "190"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447448760
+                        },
+                        "stop_id": "149"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1536",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1528",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1536"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447446480
+                        },
+                        "stop_id": "128"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447446780
+                        },
+                        "stop_id": "131"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447447080
+                        },
+                        "stop_id": "134"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447447560
+                        },
+                        "stop_id": "138"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447447740
+                        },
+                        "stop_id": "188"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447448160
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447448520
+                        },
+                        "stop_id": "143"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447448700
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447448880
+                        },
+                        "stop_id": "145"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447449300
+                        },
+                        "stop_id": "190"
+                    },
+                    {
+                        "departure": {
+                            "delay": 240,
+                            "time": 1447449900
+                        },
+                        "stop_id": "149"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1538",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1552",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1538"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447920
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448220
+                        },
+                        "stop_id": "127"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448460
+                        },
+                        "stop_id": "128"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448640
+                        },
+                        "stop_id": "129"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448880
+                        },
+                        "stop_id": "131"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449060
+                        },
+                        "stop_id": "133"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449360
+                        },
+                        "stop_id": "134"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449600
+                        },
+                        "stop_id": "136"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449780
+                        },
+                        "stop_id": "137"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447450020
+                        },
+                        "stop_id": "138"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447450200
+                        },
+                        "stop_id": "188"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447450620
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447450980
+                        },
+                        "stop_id": "143"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447451160
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447451340
+                        },
+                        "stop_id": "145"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447451760
+                        },
+                        "stop_id": "190"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447452360
+                        },
+                        "stop_id": "149"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1540",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1533",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1540"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446780
+                        },
+                        "stop_id": "1"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447320
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449180
+                        },
+                        "stop_id": "116"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449660
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449960
+                        },
+                        "stop_id": "127"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450200
+                        },
+                        "stop_id": "128"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450500
+                        },
+                        "stop_id": "131"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450800
+                        },
+                        "stop_id": "134"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451280
+                        },
+                        "stop_id": "138"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451460
+                        },
+                        "stop_id": "188"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451880
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452240
+                        },
+                        "stop_id": "143"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452420
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452600
+                        },
+                        "stop_id": "145"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447453020
+                        },
+                        "stop_id": "190"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447453620
+                        },
+                        "stop_id": "149"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1542",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1603",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1542"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448580
+                        },
+                        "stop_id": "1"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449120
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450920
+                        },
+                        "stop_id": "116"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451400
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452000
+                        },
+                        "stop_id": "131"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452180
+                        },
+                        "stop_id": "133"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452480
+                        },
+                        "stop_id": "134"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452720
+                        },
+                        "stop_id": "136"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452900
+                        },
+                        "stop_id": "137"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447453140
+                        },
+                        "stop_id": "138"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447453320
+                        },
+                        "stop_id": "188"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447453740
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447454100
+                        },
+                        "stop_id": "143"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447454280
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447454460
+                        },
+                        "stop_id": "145"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447454880
+                        },
+                        "stop_id": "190"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447455480
+                        },
+                        "stop_id": "149"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1567",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1402",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1567"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447441320
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446840
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447500
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1569",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1441",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1569"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447443660
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446300
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446780
+                        },
+                        "stop_id": "116"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448760
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447449420
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1571",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1502",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1571"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447444920
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446060
+                        },
+                        "stop_id": "138"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446240
+                        },
+                        "stop_id": "137"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446420
+                        },
+                        "stop_id": "136"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446720
+                        },
+                        "stop_id": "134"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446900
+                        },
+                        "stop_id": "133"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447140
+                        },
+                        "stop_id": "131"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447320
+                        },
+                        "stop_id": "129"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447560
+                        },
+                        "stop_id": "128"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447740
+                        },
+                        "stop_id": "127"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448100
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450440
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451100
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1573",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1530",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "3"
+                },
+                "vehicle": {
+                    "label": "1573"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446600
+                        },
+                        "stop_id": "190"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447080
+                        },
+                        "stop_id": "145"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447260
+                        },
+                        "stop_id": "144"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447440
+                        },
+                        "stop_id": "143"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447860
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448160
+                        },
+                        "stop_id": "188"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448400
+                        },
+                        "stop_id": "138"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448880
+                        },
+                        "stop_id": "134"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449180
+                        },
+                        "stop_id": "131"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449480
+                        },
+                        "stop_id": "128"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449900
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452240
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447453020
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1632",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1526",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "20"
+                },
+                "vehicle": {
+                    "label": "1632"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446360
+                        },
+                        "stop_id": "151"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447020
+                        },
+                        "stop_id": "40702"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447500
+                        },
+                        "stop_id": "40704"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447800
+                        },
+                        "stop_id": "40706"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448100
+                        },
+                        "stop_id": "40708"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448400
+                        },
+                        "stop_id": "40710"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448940
+                        },
+                        "stop_id": "40712"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "174",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1401",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "174"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447441260
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447440
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449240
+                        },
+                        "stop_id": "17022"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450380
+                        },
+                        "stop_id": "17023"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451700
+                        },
+                        "stop_id": "17025"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452720
+                        },
+                        "stop_id": "17026"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447453980
+                        },
+                        "stop_id": "17027"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447456140
+                        },
+                        "stop_id": "17028"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447457100
+                        },
+                        "stop_id": "17029"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447457400
+                        },
+                        "stop_id": "17030"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "175",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1745",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "175"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447454700
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447457580
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447461660
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447463760
+                        },
+                        "stop_id": "17016"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447464900
+                        },
+                        "stop_id": "17015"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447466280
+                        },
+                        "stop_id": "17012"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447468080
+                        },
+                        "stop_id": "17010"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447469400
+                        },
+                        "stop_id": "17009"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447472400
+                        },
+                        "stop_id": "17006"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447473240
+                        },
+                        "stop_id": "17005"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447474140
+                        },
+                        "stop_id": "17004"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447475100
+                        },
+                        "stop_id": "17003"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "176",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1519",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "176"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447445940
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448220
+                        },
+                        "stop_id": "108"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449480
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451160
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452840
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447454760
+                        },
+                        "stop_id": "17022"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447456500
+                        },
+                        "stop_id": "17023"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447457460
+                        },
+                        "stop_id": "17025"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447458420
+                        },
+                        "stop_id": "17026"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447459260
+                        },
+                        "stop_id": "17027"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447461780
+                        },
+                        "stop_id": "17028"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447462500
+                        },
+                        "stop_id": "17029"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447462800
+                        },
+                        "stop_id": "17030"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1771",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1535",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "4"
+                },
+                "vehicle": {
+                    "label": "1771"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446900
+                        },
+                        "stop_id": "154"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447080
+                        },
+                        "stop_id": "153"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447380
+                        },
+                        "stop_id": "124"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2164",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1503",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "2164"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447444980
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447500
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450260
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447455180
+                        },
+                        "stop_id": "17027"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447455840
+                        },
+                        "stop_id": "17030"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447456920
+                        },
+                        "stop_id": "17028"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447457700
+                        },
+                        "stop_id": "17029"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2167",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1558",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "2167"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 300,
+                            "time": 1447448280
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 300,
+                            "time": 1447452000
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 300,
+                            "time": 1447452840
+                        },
+                        "stop_id": "17016"
+                    },
+                    {
+                        "departure": {
+                            "delay": 300,
+                            "time": 1447456020
+                        },
+                        "stop_id": "17010"
+                    },
+                    {
+                        "departure": {
+                            "delay": 300,
+                            "time": 1447457160
+                        },
+                        "stop_id": "17009"
+                    },
+                    {
+                        "departure": {
+                            "delay": 300,
+                            "time": 1447459740
+                        },
+                        "stop_id": "17006"
+                    },
+                    {
+                        "departure": {
+                            "delay": 300,
+                            "time": 1447460460
+                        },
+                        "stop_id": "17005"
+                    },
+                    {
+                        "departure": {
+                            "delay": 300,
+                            "time": 1447462020
+                        },
+                        "stop_id": "17003"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2171",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1713",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "2171"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447452780
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447455540
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447459200
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447460040
+                        },
+                        "stop_id": "17016"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447463100
+                        },
+                        "stop_id": "17010"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447464360
+                        },
+                        "stop_id": "17009"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447466940
+                        },
+                        "stop_id": "17006"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447467660
+                        },
+                        "stop_id": "17005"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447469220
+                        },
+                        "stop_id": "17003"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "235",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1420",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "15"
+                },
+                "vehicle": {
+                    "label": "235"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447442400
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447500
+                        },
+                        "stop_id": "51"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448400
+                        },
+                        "stop_id": "15005"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449600
+                        },
+                        "stop_id": "15006"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451400
+                        },
+                        "stop_id": "15007"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "242",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1615",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "15"
+                },
+                "vehicle": {
+                    "label": "242"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449300
+                        },
+                        "stop_id": "51"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451700
+                        },
+                        "stop_id": "33"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452900
+                        },
+                        "stop_id": "18"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447454760
+                        },
+                        "stop_id": "15001"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "343",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1532",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "343"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446720
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446960
+                        },
+                        "stop_id": "54"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447140
+                        },
+                        "stop_id": "55"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447320
+                        },
+                        "stop_id": "56"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447440
+                        },
+                        "stop_id": "57"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447620
+                        },
+                        "stop_id": "58"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447800
+                        },
+                        "stop_id": "59"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447920
+                        },
+                        "stop_id": "61"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448100
+                        },
+                        "stop_id": "62"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448220
+                        },
+                        "stop_id": "64"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448340
+                        },
+                        "stop_id": "65"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448460
+                        },
+                        "stop_id": "66"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448640
+                        },
+                        "stop_id": "68"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448820
+                        },
+                        "stop_id": "71"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449000
+                        },
+                        "stop_id": "72"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449180
+                        },
+                        "stop_id": "74"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449660
+                        },
+                        "stop_id": "76"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "541",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1525",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "541"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446300
+                        },
+                        "stop_id": "64"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446420
+                        },
+                        "stop_id": "65"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446540
+                        },
+                        "stop_id": "66"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446720
+                        },
+                        "stop_id": "68"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446900
+                        },
+                        "stop_id": "71"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447080
+                        },
+                        "stop_id": "72"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447260
+                        },
+                        "stop_id": "74"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447680
+                        },
+                        "stop_id": "76"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "543",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1529",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "543"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446540
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447380
+                        },
+                        "stop_id": "62"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447500
+                        },
+                        "stop_id": "64"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447680
+                        },
+                        "stop_id": "65"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447800
+                        },
+                        "stop_id": "66"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447980
+                        },
+                        "stop_id": "68"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448160
+                        },
+                        "stop_id": "71"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448340
+                        },
+                        "stop_id": "72"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448520
+                        },
+                        "stop_id": "74"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448940
+                        },
+                        "stop_id": "76"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "55",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1639",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "18"
+                },
+                "vehicle": {
+                    "label": "55"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450740
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447452060
+                        },
+                        "stop_id": "140"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447453680
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447458300
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447459380
+                        },
+                        "stop_id": "17016"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447461480
+                        },
+                        "stop_id": "17012"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447463400
+                        },
+                        "stop_id": "17010"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447464720
+                        },
+                        "stop_id": "17009"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447467600
+                        },
+                        "stop_id": "17006"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447469940
+                        },
+                        "stop_id": "17003"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "560",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1528",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "560"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446480
+                        },
+                        "stop_id": "62"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446600
+                        },
+                        "stop_id": "61"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446720
+                        },
+                        "stop_id": "59"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446900
+                        },
+                        "stop_id": "58"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447020
+                        },
+                        "stop_id": "57"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447140
+                        },
+                        "stop_id": "56"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447447680
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448340
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "635",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1527",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "635"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446420
+                        },
+                        "stop_id": "86"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446660
+                        },
+                        "stop_id": "88"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447320
+                        },
+                        "stop_id": "91"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447740
+                        },
+                        "stop_id": "94"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "637",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1538",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "637"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447080
+                        },
+                        "stop_id": "84"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447320
+                        },
+                        "stop_id": "85"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447500
+                        },
+                        "stop_id": "86"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447740
+                        },
+                        "stop_id": "88"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447980
+                        },
+                        "stop_id": "89"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448160
+                        },
+                        "stop_id": "90"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448520
+                        },
+                        "stop_id": "91"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448940
+                        },
+                        "stop_id": "94"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "639",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1526",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "639"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446360
+                        },
+                        "stop_id": "72"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446540
+                        },
+                        "stop_id": "74"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446720
+                        },
+                        "stop_id": "76"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446960
+                        },
+                        "stop_id": "78"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447200
+                        },
+                        "stop_id": "80"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447440
+                        },
+                        "stop_id": "81"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447620
+                        },
+                        "stop_id": "83"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448340
+                        },
+                        "stop_id": "84"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "641",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1550",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "641"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447800
+                        },
+                        "stop_id": "74"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448040
+                        },
+                        "stop_id": "76"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448280
+                        },
+                        "stop_id": "78"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448520
+                        },
+                        "stop_id": "80"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448760
+                        },
+                        "stop_id": "81"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448940
+                        },
+                        "stop_id": "83"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449300
+                        },
+                        "stop_id": "84"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449540
+                        },
+                        "stop_id": "85"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449720
+                        },
+                        "stop_id": "86"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449960
+                        },
+                        "stop_id": "88"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450200
+                        },
+                        "stop_id": "89"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450380
+                        },
+                        "stop_id": "90"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450740
+                        },
+                        "stop_id": "91"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447451160
+                        },
+                        "stop_id": "94"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "660",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1532",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "660"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446720
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447380
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "662",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1527",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "662"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446420
+                        },
+                        "stop_id": "74"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446600
+                        },
+                        "stop_id": "72"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446780
+                        },
+                        "stop_id": "71"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448100
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448760
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "664",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1530",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "664"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446600
+                        },
+                        "stop_id": "84"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446960
+                        },
+                        "stop_id": "83"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447140
+                        },
+                        "stop_id": "81"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447380
+                        },
+                        "stop_id": "80"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447620
+                        },
+                        "stop_id": "78"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447860
+                        },
+                        "stop_id": "76"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448100
+                        },
+                        "stop_id": "74"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449120
+                        },
+                        "stop_id": "56"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449720
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450380
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "68",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1740",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "15"
+                },
+                "vehicle": {
+                    "label": "68"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 840,
+                            "time": 1447454400
+                        },
+                        "stop_id": "15007"
+                    },
+                    {
+                        "departure": {
+                            "delay": 840,
+                            "time": 1447456080
+                        },
+                        "stop_id": "15006"
+                    },
+                    {
+                        "departure": {
+                            "delay": 840,
+                            "time": 1447457340
+                        },
+                        "stop_id": "15005"
+                    },
+                    {
+                        "departure": {
+                            "delay": 840,
+                            "time": 1447460100
+                        },
+                        "stop_id": "51"
+                    },
+                    {
+                        "departure": {
+                            "delay": 840,
+                            "time": 1447462560
+                        },
+                        "stop_id": "33"
+                    },
+                    {
+                        "departure": {
+                            "delay": 840,
+                            "time": 1447463820
+                        },
+                        "stop_id": "18"
+                    },
+                    {
+                        "departure": {
+                            "delay": 840,
+                            "time": 1447467000
+                        },
+                        "stop_id": "15001"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "737",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1520",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "737"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 360,
+                            "time": 1447446000
+                        },
+                        "stop_id": "31"
+                    },
+                    {
+                        "departure": {
+                            "delay": 360,
+                            "time": 1447446480
+                        },
+                        "stop_id": "33"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "739",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1529",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "739"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446540
+                        },
+                        "stop_id": "22"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446720
+                        },
+                        "stop_id": "23"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446840
+                        },
+                        "stop_id": "24"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446960
+                        },
+                        "stop_id": "25"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447200
+                        },
+                        "stop_id": "27"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447320
+                        },
+                        "stop_id": "29"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447560
+                        },
+                        "stop_id": "30"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447740
+                        },
+                        "stop_id": "31"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448220
+                        },
+                        "stop_id": "33"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "741",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1531",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "741"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446660
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446900
+                        },
+                        "stop_id": "622"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447080
+                        },
+                        "stop_id": "9"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447200
+                        },
+                        "stop_id": "10"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447320
+                        },
+                        "stop_id": "11"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447440
+                        },
+                        "stop_id": "14"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447620
+                        },
+                        "stop_id": "16"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447800
+                        },
+                        "stop_id": "17"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447980
+                        },
+                        "stop_id": "18"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448100
+                        },
+                        "stop_id": "19"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448280
+                        },
+                        "stop_id": "20"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448460
+                        },
+                        "stop_id": "22"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448640
+                        },
+                        "stop_id": "23"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448760
+                        },
+                        "stop_id": "24"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448880
+                        },
+                        "stop_id": "25"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449120
+                        },
+                        "stop_id": "27"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449240
+                        },
+                        "stop_id": "29"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449480
+                        },
+                        "stop_id": "30"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449660
+                        },
+                        "stop_id": "31"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450140
+                        },
+                        "stop_id": "33"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "766",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1529",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "766"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446540
+                        },
+                        "stop_id": "19"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446660
+                        },
+                        "stop_id": "18"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446780
+                        },
+                        "stop_id": "17"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446960
+                        },
+                        "stop_id": "16"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447200
+                        },
+                        "stop_id": "14"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447320
+                        },
+                        "stop_id": "11"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447440
+                        },
+                        "stop_id": "10"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447560
+                        },
+                        "stop_id": "9"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447740
+                        },
+                        "stop_id": "622"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448160
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448820
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "768",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1531",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "768"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446660
+                        },
+                        "stop_id": "33"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446900
+                        },
+                        "stop_id": "31"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447380
+                        },
+                        "stop_id": "27"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447620
+                        },
+                        "stop_id": "25"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447800
+                        },
+                        "stop_id": "23"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447980
+                        },
+                        "stop_id": "22"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448280
+                        },
+                        "stop_id": "18"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448460
+                        },
+                        "stop_id": "16"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448700
+                        },
+                        "stop_id": "14"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447448820
+                        },
+                        "stop_id": "11"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449120
+                        },
+                        "stop_id": "622"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447449420
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447450080
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "833",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1516",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "833"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 480,
+                            "time": 1447445760
+                        },
+                        "stop_id": "49"
+                    },
+                    {
+                        "departure": {
+                            "delay": 480,
+                            "time": 1447446780
+                        },
+                        "stop_id": "51"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "837",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1528",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "837"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447446480
+                        },
+                        "stop_id": "31"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447446780
+                        },
+                        "stop_id": "33"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447447200
+                        },
+                        "stop_id": "37"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447447500
+                        },
+                        "stop_id": "39"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447448100
+                        },
+                        "stop_id": "42"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447448400
+                        },
+                        "stop_id": "43"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447448880
+                        },
+                        "stop_id": "46"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447449360
+                        },
+                        "stop_id": "49"
+                    },
+                    {
+                        "departure": {
+                            "delay": 180,
+                            "time": 1447450380
+                        },
+                        "stop_id": "51"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "839",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1529",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "839"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446540
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447446780
+                        },
+                        "stop_id": "622"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447448640
+                        },
+                        "stop_id": "33"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449060
+                        },
+                        "stop_id": "37"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447449360
+                        },
+                        "stop_id": "39"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447450020
+                        },
+                        "stop_id": "42"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447450260
+                        },
+                        "stop_id": "43"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447450740
+                        },
+                        "stop_id": "46"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447451220
+                        },
+                        "stop_id": "49"
+                    },
+                    {
+                        "departure": {
+                            "delay": 60,
+                            "time": 1447452240
+                        },
+                        "stop_id": "51"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "866",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1526",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "866"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447446360
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 0,
+                            "time": 1447447020
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "870",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1504",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "1"
+                },
+                "vehicle": {
+                    "label": "870"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447445040
+                        },
+                        "stop_id": "49"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447445520
+                        },
+                        "stop_id": "46"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447446000
+                        },
+                        "stop_id": "43"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447446240
+                        },
+                        "stop_id": "42"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447446900
+                        },
+                        "stop_id": "39"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447447200
+                        },
+                        "stop_id": "37"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447447740
+                        },
+                        "stop_id": "33"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447447980
+                        },
+                        "stop_id": "31"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447448460
+                        },
+                        "stop_id": "27"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447449780
+                        },
+                        "stop_id": "622"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447450200
+                        },
+                        "stop_id": "4"
+                    },
+                    {
+                        "departure": {
+                            "delay": 1200,
+                            "time": 1447450860
+                        },
+                        "stop_id": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "933",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1529",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "2"
+                },
+                "vehicle": {
+                    "label": "933"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446540
+                        },
+                        "stop_id": "97"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447446900
+                        },
+                        "stop_id": "98"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447320
+                        },
+                        "stop_id": "100"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447800
+                        },
+                        "stop_id": "101"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447447980
+                        },
+                        "stop_id": "176"
+                    },
+                    {
+                        "departure": {
+                            "delay": 120,
+                            "time": 1447448580
+                        },
+                        "stop_id": "177"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "94",
+            "trip_update": {
+                "trip": {
+                    "start_time": "1742",
+                    "start_date": "11132015",
+                    "schedule_relationship": 0,
+                    "route_id": "17"
+                },
+                "vehicle": {
+                    "label": "94"
+                },
+                "stop_time_update": [
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447454520
+                        },
+                        "stop_id": "15001"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447457460
+                        },
+                        "stop_id": "124"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447461120
+                        },
+                        "stop_id": "149"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447463160
+                        },
+                        "stop_id": "17022"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447464240
+                        },
+                        "stop_id": "17023"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447466220
+                        },
+                        "stop_id": "17026"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447467360
+                        },
+                        "stop_id": "17027"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447469400
+                        },
+                        "stop_id": "17028"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447470120
+                        },
+                        "stop_id": "17029"
+                    },
+                    {
+                        "departure": {
+                            "delay": 4560,
+                            "time": 1447470600
+                        },
+                        "stop_id": "17030"
+                    }
+                ]
+            }
+        }
+    ]
+}

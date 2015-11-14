@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-US" ng-app="angularJSMetroNorth">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>AngularJS | Metro-North App</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no"/>
+    <meta property="og:image" content=""/>
+    <meta property="og:title" content="AngularJS | Metro-North App"/>
+    <meta property="og:url" content="/"/>
+    <meta property="og:description" content="AngularJS | Metro-North App"/>
+    <meta property="og:site_name" content="AngularJS | Metro-North App"/>
+    <meta property="og:type" content="website"/> 
+
+	<!-- AngularJS 1.4.5 core library from Google CDN  -->
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+	<!-- AngularJS 1.4.5 routing library from Google CDN  -->
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular-route.min.js"></script>
+	<!-- AngularJS 1.4.5 resource RESTful service interaction from Google CDN  -->
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular-resource.min.js"></script>
+
+	<!-- Bootstrap CDN link -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+    <script src="assets/ngapp/app.js"></script>
+    <script src="assets/ngapp/services.js"></script>
+    <script src="assets/ngapp/controllers.js"></script>
+    <script src="assets/ngapp/directives.js"></script>
+
+    <!-- Enables AngularJS routing -->
+	<base href="/" />
+
+</head>
+
+<body>
+
+<div class="jumbotron">
+  <h1>AngularJS Metro-North : {{ page_title }}</h1>
+    <div ng-view>
+    </div>
+</div>
+<footer>
+    <p><small>Credits: Images - <a href="https://www.flickr.com/" target='_blank'>Flickr</a>, Data Feed - <a href="http://web.mta.info/developers/download.html" target="_blank">MTA</a>, App Inspiration - <a href="https://github.com/mlassoff/MetroNorth" target="_blank">Mark Lassoff's Metro-North PhoneGap app</a>.</small></p>
+</footer>
+</body>
+</html>
